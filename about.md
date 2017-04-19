@@ -1,15 +1,15 @@
 ---
- layout: page
- title: About
- ---
+layout: page
+title: About
+---
 
- This is an about page about this awesome site.
- Hope you love it!
+This is an about page about this awesome site.
+Hope you love it!
 
- Reasons:
- - its great.
- - its a test.
+Reasons:
+- its great.
+- its a test.
 
- ## Other thoughts
+## Other thoughts
 
- This is great.
+This is great.
