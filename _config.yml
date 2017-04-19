@@ -1,0 +1,11 @@
+# basic options
+title: New BLOG
+author: Helio
+email: your-email@domain.com
+description: This is a blog that should change the world like a blog has never before changed the world before.
+twitter_username: dcnb
+github_username:  dcnb
+
+# Build settings
+markdown: kramdown
+theme: minima
